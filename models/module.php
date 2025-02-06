@@ -240,8 +240,9 @@ HTML;
 
   private function _blurb() { // display the default homepage
      $this->_html = <<<HTML
-<p>LEACAN is the second stage of a project which aims to provide a comprehensive, online, modular grammar of traditional Scottish Gaelic.</p>
-<p>The current phase of the project is focused on the following topics –</p>
+<p>LEACAN aims to provide a comprehensive, online, modular grammar of traditional Scottish Gaelic.</p>
+ 
+<p>The 2020-23 phase of the project focused on the following topics ––</p>
 <ul>
   <li>How are <a href="?xx=nouns/quantity_expressions">quantities</a> expressed in Gaelic?</li>
   <li>How is <a href="?q=verbal_aspect">verbal aspect</a> expressed in Gaelic?</li>
