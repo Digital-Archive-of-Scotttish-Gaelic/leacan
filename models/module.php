@@ -242,7 +242,7 @@ HTML;
      $this->_html = <<<HTML
 <p>LEACAN aims to provide a comprehensive, online, modular grammar of traditional Scottish Gaelic.</p>
  
-<p>The 2020-23 phase of the project focused on the following topics ––</p>
+<p>The 2020-23 phase of the project focused on the following topics –</p>
 <ul>
   <li>How are <a href="?xx=nouns/quantity_expressions">quantities</a> expressed in Gaelic?</li>
   <li>How is <a href="?q=verbal_aspect">verbal aspect</a> expressed in Gaelic?</li>
